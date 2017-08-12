@@ -20,4 +20,4 @@ The exercise is to build a static webpage following the given inVision design as
 ### Bonus:
 In addition to submitting a pull request, you should try to host your webpage on an amazon S3 bucket and CloudFront CDN or free alternative. Please add the URL to this readme as part of the pull request.
 
-#### URL: http://43.224.1.48:8080/mous-front-end-developer-test/index.html
+#### Demo URL: http://43.224.1.48:8080/mous-front-end-developer-test/index.html
